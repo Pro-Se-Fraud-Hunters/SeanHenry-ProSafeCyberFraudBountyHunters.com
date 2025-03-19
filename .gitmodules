@@ -1,0 +1,18 @@
+[submodule "https://ProSafeCyberFraudBountyHunters.com"]
+	path = https://ProSafeCyberFraudBountyHunters.com
+	url = https://ProSeFraudCatcher@github.com/
+[submodule "https://ProSafeCyberFraudBountyHunters"]
+	path = https://ProSafeCyberFraudBountyHunters
+	url = https://ProSeFraudCatcher@github.com/
+[submodule "ProSafeCyberFraudBountyHunters"]
+	path = ProSafeCyberFraudBountyHunters
+	url = https://ProSeFraudCatcher@github.com/
+[submodule "#CyberFraudBountyHunters/SeanHenry"]
+	path = "#CyberFraudBountyHunters/SeanHenry"
+	url = https://github.com/ProSeFraudCatcher/git-credential-manager
+[submodule "#CyberFraudBountyHunters/SeanHenry@ProSafeCyberFraudBountyHunters.com"]
+	path = "#CyberFraudBountyHunters/SeanHenry@ProSafeCyberFraudBountyHunters.com"
+	url = https://github.com/ProSeFraudCatcher/git-credential-manager
+[submodule "https:/ProSafeCyberFraudBountyHunters.com"]
+	path = https:/ProSafeCyberFraudBountyHunters.com
+	url = https://github.com/
